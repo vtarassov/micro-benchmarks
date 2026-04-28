@@ -1,0 +1,11 @@
+# MongoDB Python driver
+pymongo>=4.0.0
+
+# Locust load testing framework
+locust>=2.0.0
+
+# NumPy for shared memory structured arrays
+numpy>=1.20.0
+
+# POSIX IPC for inter-process synchronization
+posix-ipc>=1.0.0
